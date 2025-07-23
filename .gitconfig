@@ -1,6 +1,6 @@
 [user]
-  email = victor.irzak@zomp.com
-  name = Victor Irzak
+  email = sam.park7029@gmail.com
+  name = Sam Park
 
 [alias]
   glog = log --all --pretty='format:%d %Cgreen%h%Creset %ci %an - %s' --graph
